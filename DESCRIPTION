@@ -1,0 +1,12 @@
+Package: jekyllr
+Title: Post to Jekyll blogs from R
+Version: 0.1
+Authors@R: "Adam Bradley <hisself@adambradley.net> [aut, cre]"
+Description: Provides two functions that semi-automate the process of
+    publishing an RMarkdown document to a Jekyll-based blog.
+Depends:
+    R (>= 3.1.1)
+Imports:
+    knitr
+License: MIT
+LazyData: true
